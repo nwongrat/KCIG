@@ -1,4 +1,3 @@
-```bash
 #!/usr/bin/env bash
 
 # Copyright (c) 2021-2025 tteck
@@ -307,4 +306,3 @@ if ! pveversion | grep -Eq "pve-manager/8\.[0-9]+"; then
 fi
 
 start_routines
-```
